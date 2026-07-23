@@ -1,38 +1,58 @@
-Shreya Gupta
+# Shreya Gupta
 
-Aspiring Data Scientist | B.Tech Computer Science Engineering Student
+**Aspiring Data Scientist | B.Tech Computer Science Engineering Student**
 
-About Me
-B.Tech Computer Science Engineering student
-Aspiring Data Scientist with a focus on Python, SQL, Machine Learning, and Data Analytics
-Currently expanding my skills in Excel, Statistics, and Machine Learning
-Actively seeking a Data Science internship to apply and grow my skills in real-world projects
-Technical Skills
+---
 
-Languages: Python, SQL
+## About Me
 
-Data Science & Machine Learning: NumPy, Pandas, Matplotlib, Scikit-learn
+Hey, I'm Shreya! I'm currently pursuing my B.Tech in Computer Science Engineering, and somewhere along the way I fell in love with data. I like the process of pulling meaning out of messy numbers, whether that's cleaning up a dataset, training a model, or just figuring out why a chart looks weird.
 
-Tools: Jupyter Notebook, VS Code, Git, GitHub
+Right now I'm deep into Python, SQL, Machine Learning, and Data Analytics, and I'm actively brushing up on Excel and Statistics too. My near-term goal is to land a Data Science internship where I can work on real problems instead of just textbook ones.
 
-Featured Projects
+---
 
-Customer Churn Prediction Built a machine learning model to predict customer churn, including data preprocessing, feature engineering, and model evaluation. Repository: https://github.com/akshreyagupta28-source/customer-churn-prediction
+## Technical Skills
 
-Credit Card Fraud Detection Developed a classification model to detect fraudulent transactions, with techniques to handle class imbalance in financial data. Repository: https://github.com/akshreyagupta28-source/credit-card-fraud-detection
+**Languages:** Python, SQL
 
-Random Password Generator A Python-based tool for generating secure, customizable random passwords. Repository: https://github.com/akshreyagupta28-source/random-password-generator
+**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn
 
-Number Guessing Game A beginner-friendly Python console game for practicing core logic and control flow. Repository: https://github.com/akshreyagupta28-source/number-guessing-game
+**Tools:** Jupyter Notebook, VS Code, Git, GitHub
 
-Note: Update the repository links above to match your actual GitHub repository names.
+---
 
-Currently Learning
-Excel
-Statistics
-Machine Learning
-Power BI (upcoming)
-Contact
-LinkedIn: https://www.linkedin.com/in/shreya-gupta-42a775326/
-Email: akshreyagupta28@gmail.com
-GitHub: https://github.com/akshreyagupta28-source
+## Featured Projects
+
+**Customer Churn Prediction**
+Built a model to predict which customers are likely to churn, working through data cleaning, feature engineering, and comparing a few classification algorithms to see what actually performed best.
+Repo: https://github.com/akshreyagupta28-source/customer-churn-prediction
+
+**Credit Card Fraud Detection**
+Trained a classifier to flag fraudulent transactions. The tricky part was the class imbalance, since fraud cases are rare, so a chunk of this project was just about handling that properly.
+Repo: https://github.com/akshreyagupta28-source/credit-card-fraud-detection
+
+**Random Password Generator**
+A small Python script that spits out secure, customizable passwords. Simple, but a good exercise in working with Python's string and random modules.
+Repo: https://github.com/akshreyagupta28-source/random-password-generator
+
+**Number Guessing Game**
+One of my earliest Python projects, a console-based guessing game. Nothing fancy, just good practice with loops and conditionals.
+Repo: https://github.com/akshreyagupta28-source/number-guessing-game
+
+---
+
+## Currently Learning
+
+- Excel
+- Statistics
+- Machine Learning
+- Power BI (up next)
+
+---
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/shreya-gupta-42a775326/
+- Email: akshreyagupta28@gmail.com
+- GitHub: https://github.com/akshreyagupta28-source
