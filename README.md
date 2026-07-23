@@ -14,7 +14,7 @@ Right now I'm deep into Python, SQL, Machine Learning, and Data Analytics, and I
 
 ## Technical Skills
 
-**Languages:** Python, SQL
+**Languages:** C, C++, Python, SQL
 
 **Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn
 
