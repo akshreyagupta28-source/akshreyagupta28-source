@@ -47,6 +47,7 @@ Repo: https://github.com/akshreyagupta28-source/number-guessing-game
 - Excel
 - Statistics
 - Machine Learning
+- Tableau 
 - Power BI (up next)
 
 ---
